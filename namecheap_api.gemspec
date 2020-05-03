@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "simplecov"
   spec.add_dependency "typhoeus", "~> 1.3"
   spec.add_dependency "nokogiri", "~> 1.6"
-  spec.add_dependency "activesupport", "~> 4.2"
+  spec.add_dependency "activesupport", "~> 5.2"
 end
